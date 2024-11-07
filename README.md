@@ -8,6 +8,8 @@
 
 <p>Thank you for your interest in contributing to the <strong>Architecture Generator</strong>! This guide will help you get started and outline the process for submitting contributions.</p>
 
+<a href="https://marketplace.visualstudio.com/items?itemName=magabde.architecture-generator">Architecture Visualizer - Project Structure Visualizer and Copier</a>
+
 <h2>Getting Started</h2>
 
 <ol>
